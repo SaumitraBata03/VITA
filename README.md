@@ -1,4 +1,3 @@
-::: {align="center"}
 # VITA
 
 ### AI-Powered Contactless Emergency Health Screening & Monitoring
